@@ -50,8 +50,8 @@ First Screening Test - Kishore Saravanan/
 - Visual hierarchy with proper font sizes and spacing  
 - Reusable components and scalable UI  
 
-### 📱 Mobile Responsive
-- Optimized layout for smaller screens  
+### 📱 Mobile Responsive (390×844)
+- Optimized layout for modern mobile screens  
 - Simplified UI while retaining functionality  
 - Easy navigation and button accessibility  
 
@@ -65,7 +65,7 @@ First Screening Test - Kishore Saravanan/
 
 ### 2. Frame Setup
 - Designed desktop layout in `1920x1080px`  
-- Created mobile versions for each section (375px width)  
+- Created mobile versions for each section using a `390×844` frame size  
 
 ### 3. UI Execution
 - Used consistent spacing, fonts, and icons  
@@ -76,15 +76,21 @@ First Screening Test - Kishore Saravanan/
 - Ensured button tap areas and text were mobile-friendly  
 
 ### 5. Export & Organization
-- Exported as PNG in full resolution  
-- Organized in a clearly named folder with documentation  
+- Exported all designs as high-resolution PNG files  
+- Structured everything neatly in a dedicated folder for submission  
 
 ---
 
 ## 🔗 Links
 
-- **Figma File**: [Insert Figma link here]  
-- **GitHub Repo**: [Insert GitHub link here]  
+- **Figma File (Desktop View)**:  
+  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/TANDEMLOOP-TECHNOLOGIES-PRIVATE-LIMITED?page-id=0%3A1&node-id=1-22&p=f&viewport=195%2C102%2C0.12&t=iDsjdE2Rsus6KVPi-1&scaling=scale-down&content-scaling=fixed  
+
+- **Figma File (Mobile Responsive View)**:  
+  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/TANDEMLOOP-TECHNOLOGIES-PRIVATE-LIMITED?page-id=0%3A1&node-id=1-254&viewport=195%2C102%2C0.12&t=9KD2AAItjOrwfGDo-1&scaling=scale-down&content-scaling=fixed  
+
+- **GitHub Repo**:  
+  https://github.com/Kishorekissa/first_screening_test_kishore_saravanan
 
 ---
 
