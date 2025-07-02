@@ -84,10 +84,10 @@ First Screening Test - Kishore Saravanan/
 ## 🔗 Links
 
 - **Figma File (Desktop View)**:  
-  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/TANDEMLOOP-TECHNOLOGIES-PRIVATE-LIMITED?page-id=0%3A1&node-id=1-22&p=f&viewport=195%2C102%2C0.12&t=iDsjdE2Rsus6KVPi-1&scaling=scale-down&content-scaling=fixed  
+  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/First_Screening_Test_Kishore_Saravanan?page-id=0%3A1&node-id=1-22&viewport=195%2C102%2C0.12&t=9KD2AAItjOrwfGDo-1&scaling=scale-down&content-scaling=fixed  
 
 - **Figma File (Mobile Responsive View)**:  
-  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/TANDEMLOOP-TECHNOLOGIES-PRIVATE-LIMITED?page-id=0%3A1&node-id=1-254&viewport=195%2C102%2C0.12&t=9KD2AAItjOrwfGDo-1&scaling=scale-down&content-scaling=fixed  
+  https://www.figma.com/proto/xpYJ4Fg36BIOj2jw73D1Q8/First_Screening_Test_Kishore_Saravanan?page-id=3%3A2&node-id=10-3&p=f&viewport=377%2C105%2C0.1&t=cvLdu51zaEAwjTtj-1&scaling=scale-down&content-scaling=fixed 
 
 - **GitHub Repo**:  
   https://github.com/Kishorekissa/first_screening_test_kishore_saravanan
