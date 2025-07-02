@@ -12,11 +12,11 @@ This repository contains my submission for the **First Screening Test** as part 
 - **Section 3**: Data visualization & pricing plans
 
 **Requirements**:
-- Use `Manrope` font from Google Fonts
-- Frame size: **1920x1080px**
-- Design for both **web** and **mobile** (responsive layouts)
-- Use open-source icons
-- Organize all files in a structured GitHub repo
+- Use `Manrope` font from Google Fonts  
+- Frame size: **1920x1080px**  
+- Design for both **web** and **mobile** (responsive layouts)  
+- Use open-source icons  
+- Organize all files in a structured GitHub repo  
 
 ---
 
@@ -27,72 +27,68 @@ This repository contains my submission for the **First Screening Test** as part 
 - **Feather Icons / Heroicons** – open-source icon libraries  
 - **GitHub** – for version control and project delivery  
 
-🧩 Design Process
-1. Understanding the Task
-I carefully reviewed the three provided sections to identify:
+---
 
-Layout structure
+## 📁 Folder Structure
 
-Typography and font usage (Manrope)
-
-Spacing, hierarchy, and visual style
-
-Key responsive behavior and visual consistency
-
-2. Tools Chosen
-Figma: For wireframing and high-fidelity designs
-
-Google Fonts: Integrated the 'Manrope' font
-
-Open-source icon libraries: Used consistent and scalable icons
-
-GitHub: For version control and project delivery
-
-3. Frame Setup
-Created individual frames in Figma with dimensions 1920 x 1080 px for each section
-
-Set up corresponding mobile frames based on popular breakpoints (e.g., 375px width for iPhone)
-
-4. Design Implementation
-Recreated all 3 sections pixel-perfect based on reference images
-
-Focused on clean spacing, alignment, and typography
-
-Ensured design follows modern UX best practices:
-
-Clear CTA hierarchy
-
-Logical content flow
-
-Visual grouping of related elements
-
-Used a consistent color scheme, shadows, and button styles
-
-5. Mobile Responsiveness
-Redesigned all sections to fit small screens
-
-Ensured buttons are touch-friendly and text is readable
-
-Collapsed navigation into a hamburger menu for simplicity
-
-Reorganized layouts vertically for better scroll experience
-
-6. Export and Organization
-Exported all screens as PNG files in full resolution
-
-Maintained clean file structure:
-
-Separate files for desktop, mobile, and sections
-
-All assets placed in a folder named
-First Screening Test - Kishore Saravanan
-
-7. Version Control
-Set up a public GitHub repository to host the project
-
-Included a detailed README.md to explain the work
-
-Shared both the Figma link and GitHub repo for review
+First Screening Test - Kishore Saravanan/
+│
+├── Section-1.png
+├── Section-2.png
+├── Section-3.png
+├── Desktop.png
+├── Mobile Responsive.png
+└── README.md
 
 
+---
 
+## ✅ Design Highlights
+
+### 💻 Desktop (1920x1080)
+- Clean and modern layout using a consistent grid  
+- Visual hierarchy with proper font sizes and spacing  
+- Reusable components and scalable UI  
+
+### 📱 Mobile Responsive
+- Optimized layout for smaller screens  
+- Simplified UI while retaining functionality  
+- Easy navigation and button accessibility  
+
+---
+
+## 🧩 Design Process
+
+### 1. Understanding the Task
+- Carefully reviewed the 3 reference sections  
+- Identified layout structure, visual hierarchy, and components  
+
+### 2. Frame Setup
+- Designed desktop layout in `1920x1080px`  
+- Created mobile versions for each section (375px width)  
+
+### 3. UI Execution
+- Used consistent spacing, fonts, and icons  
+- Followed clean design principles and responsive best practices  
+
+### 4. Responsiveness
+- Redesigned content flow for small screens  
+- Ensured button tap areas and text were mobile-friendly  
+
+### 5. Export & Organization
+- Exported as PNG in full resolution  
+- Organized in a clearly named folder with documentation  
+
+---
+
+## 🔗 Links
+
+- **Figma File**: [Insert Figma link here]  
+- **GitHub Repo**: [Insert GitHub link here]  
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you need further clarification.  
+Thank you for the opportunity!
